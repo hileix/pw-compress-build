@@ -1,0 +1,22 @@
+{
+  "name": "pw-compress-build",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "adm-zip": "^0.5.9",
+    "chalk": "^4.0.0",
+    "commander": "^9.0.0",
+    "dayjs": "^1.10.8"
+  },
+  "files": [
+    "src/*.js"
+  ]
+}
